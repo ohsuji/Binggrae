@@ -91,6 +91,10 @@
   column-gap: 20px;
   }
 /*  빙그레맛  */
+  #taste div.inner ul.list {
+    flex-wrap: wrap;
+
+  }
   #taste div.inner ul.list li{
   width: calc((100% / 2) - (50px / 2));
   }

@@ -3,7 +3,7 @@ main {
     background-image: url(../img/section02_bg.png);
    
   }
-  
+ 
   main section#taste {  
   }
   
@@ -20,11 +20,11 @@ main {
  
   main section#taste div.inner ul.list {
   display: flex;
-  width: 90%;
+  width: 95%;
   justify-content: space-between;
   column-gap: 20px;
   text-align: center;
-  flex-wrap: wrap;
+  /*! flex-wrap: wrap; */
   }
 
   #taste .inner ul.list li {
